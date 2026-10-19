@@ -1,3 +1,5 @@
+# Minimalist Media Player
+
 # About:
 A high-res mediaplayer inspired by the "TP-7", originaly made by "Teenage Engineering".
 
